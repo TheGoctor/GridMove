@@ -821,8 +821,8 @@ setGuiColors()
     shadowcolor=000000
     textcolor=FFD300
     guicolor=EEAA99
-    horizontalGrid=Gridh_orange.bmp
-    verticalGrid=Gridv_orange.bmp
+    horizontalGrid=Grid.bmp
+    verticalGrid=Grid.bmp
   }
 }
 
